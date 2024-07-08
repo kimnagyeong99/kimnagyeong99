@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=360&text=Hello-%21%21&fontSize=80&fontAlign=50&fontAlignY=50&desc=nagyeong%27s+github&descSize=20&descAlign=50&descAlignY=60)
 
 
-
+</br>
 ### 안녕하세요 금융권 데이터직무를 목표로 공부하고 있는 김나경입니다-! ###
-
+</br>
 
 
 
