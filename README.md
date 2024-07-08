@@ -1,52 +1,10 @@
-# 제일 큰 제목
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=360&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%3A%29&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC+%EA%BE%B8%EC%A4%80%ED%95%98%EA%B2%8C&descSize=20&descAlign=50&descAlignY=60)
 
-##### 제일 작은 제목
-
----
-*** 
-
-__진하게__
-**진하게** 띄어쓰면 안먹힘
-
-~~이건 취소선~~
-
-***굵고 기울기*** 
-
-*하나만 하면 그냥 기울기*
-
-1. 목차1
-2. 목차2
-3. 
-  4. 등등
-
-
->지금은 마크다운 다룹니다.
->> 안으로 하나 더 들어가서 나옵니다.
-
-
-- 순서없는 목록
-  - 그 하위 목록
-    - 그 하위의 하위
-- 쉬프트 탭으로 빠져 나오기
-
-```한줄코드는 'print('helloworld')입니다.```
-
-```python
-name = '김나경'
-print(name)
-```
-
-테이블...
-
-텍스트 링크
-
-[네이버로 가기](https://www.naver.com/)
-
-[![고양이 입니다]!(링크걸기)](링크)
-
+### 안녕하세요 금융권 데이터직무를 목표로 공부하고 있는 김나경입니다-! ###
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 **🛠️ Infra and Tools**
+![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
