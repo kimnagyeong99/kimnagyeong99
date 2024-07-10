@@ -23,3 +23,4 @@
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=meruddl)](https://solved.ac/profile/meruddl)
+
