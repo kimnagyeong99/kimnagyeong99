@@ -20,3 +20,6 @@
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnagyeong99&layout=compact)
+
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=meruddl)](https://solved.ac/profile/meruddl)
